@@ -1,3 +1,4 @@
+*.adbutter.net
 *.adform.net
 *.adnxs.com
 *.adroll.com
@@ -23,6 +24,6 @@
 *.outbrain.com
 *.qualtrics.com
 *.scorecardresearch.com
+*.xiti.com
 adservice.google.*
 twch.*.ch
-
