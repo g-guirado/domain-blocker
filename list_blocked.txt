@@ -3,6 +3,7 @@
 *.adnxs.com
 *.adroll.com
 *.adsafeprotected.com
+*.adtech.de
 *.amazon-adsystem.com
 *.criteo.com
 *.doubleclick.net
@@ -26,4 +27,5 @@
 *.scorecardresearch.com
 *.xiti.com
 adservice.google.*
+track.*.ch
 twch.*.ch
