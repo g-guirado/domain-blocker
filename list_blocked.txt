@@ -20,12 +20,15 @@
 *.hs-scripts.com
 *.hubspot.com
 *.instagram.com
+*.ipredictive.com
 *.krxd.net
+*.liveadvert.com
 *.lqm.io
 *.outbrain.com
 *.qualtrics.com
 *.scorecardresearch.com
 *.xiti.com
+*.ztsrv.com
 adservice.google.*
 track.*.ch
 twch.*.ch
