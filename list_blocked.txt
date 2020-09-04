@@ -47,8 +47,10 @@
 *.lqm.io
 *.mktoresp.com
 *.mouseflow.com
+*.opecloud.com
 *.outbrain.com
 *.pardot.com
+*.parsely.com
 *.qualtrics.com
 *.quantcount.com
 *.quantserve.com
